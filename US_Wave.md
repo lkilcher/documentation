@@ -180,9 +180,7 @@ with h5pyd.File('/nrel/US_Wave/US_wave_2010.h5', mode='r') as f:
 ```
 ## References
 
-The creators of this dataset ask that users of this data:
-1) Contact us (see below)
-2) Cite the following papers in publications:
+Please cite the most relavent publication below when referencing this dataset:
 - [Wu, Wei-Cheng, et al. "Development and validation of a high-resolution regional wave hindcast model for US West Coast wave resource characterization." Renewable Energy 152 (2020): 736-753.](https://www.osti.gov/biblio/1599105)
 - [Yang, Zhaoqing, et al. High-Resolution Regional Wave Hindcast for the US West Coast. No. PNNL-28107. Pacific Northwest National Lab.(PNNL), Richland, WA (United States), 2018.](https://www.osti.gov/biblio/1573061/)
 
